@@ -1,0 +1,23 @@
+{
+  "name": "nightwatch-playground",
+  "version": "0.0.0",
+  "description": "Jason's collection of nightwatch helpers, functions and scaffolding",
+  "main": "",
+  "scripts": {
+    "test": "./node_modules/.bin/nightwatch"
+  },
+  "devDependencies": {
+    "eslint": "3.19.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "2.2.3",
+    "eslint-plugin-react": "6.10.3"
+  },
+  "dependencies": {
+    "async": "0.2.10",
+    "chalk": "0.4.0",
+    "chromedriver": "latest",
+    "mkdirp": "0.5.1",
+    "nightwatch": "1.3.2",
+    "saucelabs": "^3.0.1"
+  }
+}
