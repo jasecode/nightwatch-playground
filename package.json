@@ -13,7 +13,7 @@
     "eslint-plugin-react": "6.10.3"
   },
   "dependencies": {
-    "async": "0.2.10",
+    "async": "2.6.4",
     "chalk": "0.4.0",
     "chromedriver": "latest",
     "mkdirp": "0.5.1",
